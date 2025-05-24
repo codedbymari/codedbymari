@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <em>Made with 💗 by codedbymari</em>
+  <em>All my projects are made with 💗 </em>
 </p>
