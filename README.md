@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Design%20Focused-faf0e6?style=flat-square" alt="Design Focused">
 </p>
 
-<h2 align="center">Hi, I'm Maryama! 💖</h2>
+<h2 align="center">Hi, I'm Maryama </h2>
 
 <p align="center">
   Frontend developer in Oslo.<br>
