@@ -8,7 +8,7 @@
 <p align="center">
   Frontend developer in Oslo.<br>
   Education: BSc in Environmental Science & Applied Computer Science.<br>
-  Advocate for inclusivity and women in tech.<br>
+  Advocate for inclusivity and black women in tech.<br>
   Passionate about people-first & accessible design.
 </p>
 
