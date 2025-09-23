@@ -3,13 +3,11 @@
   <img src="https://img.shields.io/badge/Design%20Focused-faf0e6?style=flat-square" alt="Design Focused">
 </p>
 
-<h2 align="center">Hi, I'm Maryama </h2>
+<h2 align="center">Hey, I’m Maryama 👋🏽</h2>
 
 <p align="center">
-  Frontend developer in Oslo.<br>
-  Education: BSc in Environmental Science & Applied Computer Science.<br>
-  Advocate for inclusivity and black women in tech.<br>
-  Passionate about people-first & accessible design.
+  I code for fun, for work, and to grow.  
+  I care about inclusivity, accessibility, and building tech that feels human.  
 </p>
 
 <p align="center">
